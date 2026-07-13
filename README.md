@@ -6,7 +6,6 @@
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Status](https://img.shields.io/badge/status-completado-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/license-MIT-yellow?style=for-the-badge)
 ![Universidad](https://img.shields.io/badge/UPSLP-Introducci%C3%B3n%20a%20la%20Computaci%C3%B3n-blueviolet?style=for-the-badge)
 
 </div>
