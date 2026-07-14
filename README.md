@@ -141,6 +141,14 @@ void loop() {
 
 ---
 
+## Mi aporte al proyecto
+
+Dentro del trabajo en equipo, me enfoqué principalmente en:
+
+
+Código Arduino (.ino) — lógica de lectura de sensores, control de LEDs por zona y manejo del servomotor
+Armado de circuitos — conexión de fotorresistencias, LEDs, botón y servomotor en la protoboard física
+
 ## Autores
 
 Proyecto desarrollado en equipo para **Introducción a la Computación T02D**, UPSLP — 29 de noviembre de 2024.
