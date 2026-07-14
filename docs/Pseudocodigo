@@ -1,9 +1,9 @@
-// DIAGRAMA DE FLUJO DE PROYECTO FINAL ARDUINO
+// PSEUDOCÓDIGO DE PROYECTO FINAL ARDUINO
 // Desarrolladores: 
-// Trist�n Contreras David Alejandro
-// Zamora Mart�nez Mar�a Guadalupe
+// Tristán Contreras David Alejandro
+// Zamora Martínez María Guadalupe
 Algoritmo ArduinoHouse
-	// Asignamos librer�a del #include
+	// Asignamos librería del #include
 	LIBRERIA <- servoh
 	Servo <- servoMotor
 	// definimos variable al servoMotor
@@ -18,19 +18,19 @@ Algoritmo ArduinoHouse
 	cuenta <- 1
 	Repetir
 		Leer pinMode13
-		// Si el pin digital del bot�n se presiona
+		// Si el pin digital del botón se presiona
 		Si pinMode13=1 Y cuenta==1 Entonces
 			cuenta <- 0
 			// Espera para que no se lea doble vez
 			Esperar 0.5 Segundos
 		FinSi
 		Leer pinMode13
-		// Si el pin digital del bot�n se vuelve a presionar
+		// Si el pin digital del botón se vuelve a presionar
 		Si pinMode13=1 Y cuenta=0 Entonces
 			cuenta <- 1
 			Esperar 0.5 Segundos
 		FinSi
-		// Si el pin digital del bot�n se presiona
+		// Si el pin digital del botón se presiona
 		Si cuenta=0 Entonces
 			// El led del pin12 enciende
 			pinMode12 <- 1
