@@ -125,7 +125,7 @@ void loop() {
 
 | Documento | Contenido |
 |---|---|
-| 📄 [Manual del Proyecto](.docs/Manual_Proyecto.pdf) | Cómo conectar, activar y apagar el sistema paso a paso, pseudocódigo, explicación técnica del código |
+| 📄 [Manual del Proyecto](docs/Manual_Proyecto.pdf) | Cómo conectar, activar y apagar el sistema paso a paso, pseudocódigo, explicación técnica del código |
 
 
 ---
