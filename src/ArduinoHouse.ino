@@ -1,4 +1,4 @@
-// DIAGRAMA DE FLUJO DE PROYECTO FINAL ARDUINO
+
 // Desarrolladores: 
 // Tristán Contreras David Alejandro
 // Zamora Martínez María Guadalupe
